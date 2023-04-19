@@ -63,3 +63,6 @@ userPassword.addEventListener('click', () => {
         userInfo.textContent = Alldata.password;
         userImage.src = Alldata.picture;
 });
+
+
+
